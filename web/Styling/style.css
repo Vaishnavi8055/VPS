@@ -1,0 +1,55 @@
+body{
+margin:0px;
+padding: 0px;
+}
+
+*{
+    scroll-behavior: smooth;
+}
+
+#nav_search{
+    width: 700px;
+    height: 3rem;
+}
+
+
+.navbar-nav.form{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7px;
+}
+
+.primary-background{
+    background-color: #000000 !important;
+}
+
+.jumbotron{
+    background-color: #FCE4EC;
+    padding-top: 240px;
+    padding-bottom: 238px;
+    /*border: saddlebrown solid;*/
+}
+
+.card {display:inline-block;}
+
+/*
+.carousel-inner{
+    background-image: url("../Images/
+    bg-carousel.jpg");
+    !*background-color: aliceblue;*!
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
+
+/*.carousel-inner{*/
+/*    border: solid crimson;*/
+/*    !*box-shadow: 3px 3px 3px 6px rgb(150, 148, 148);*!*/
+/*}*/
+
+/*.carousel-item{*/
+/*    border: solid black;*/
+/*}*/
+
+/*.card{*/
+/*    border: solid #29B6F6;*/
+/*}*/
